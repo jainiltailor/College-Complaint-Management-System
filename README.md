@@ -22,7 +22,7 @@ This is a web-based application that allows students and faculty to submit, mana
     ```php
     <?php
     // config.php
-    $conn = mysqli_connect("localhost", "root", "", "complaint_management");
+    $conn = mysqli_connect("localhost", "root", "", "college_complaint_management_scet");
     ?>
 4. Import the database (college_complaint_management_scet.sql) from the db folder into your MySQL database.
 5. Start a local server (using XAMPP, WAMP, or similar) and run the project.
