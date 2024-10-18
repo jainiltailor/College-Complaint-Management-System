@@ -27,8 +27,6 @@ This is a web-based application that allows students and faculty to submit, mana
 4. Import the database (college_complaint_management_scet.sql) from the db folder into your MySQL database.
 5. Start a local server (using XAMPP, WAMP, or similar) and run the project.
 
-# Demo Photograph
-
 # New User Login
 ![New_User_Login](https://github.com/user-attachments/assets/6bc34a9f-565e-426c-bc38-5f02ab3a2f97)
 
