@@ -8,7 +8,6 @@ This is a web-based application that allows students and faculty to submit, mana
 - **Faculty Complaint Submission**: Faculty can escalate complaints to the principal and submit complaints directly.
 - **Complaint Resolution**: Faculty and the principal can resolve complaints with detailed feedback.
 - **User Authentication**: Secure login for students and faculty, ensuring appropriate role access.
-- **Photo Uploads**: Users can upload photos as evidence while submitting complaints.
 
 ## How to Install
 
